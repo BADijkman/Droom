@@ -6,8 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>FilmZoeker</title>
     <link rel="stylesheet" href="style/style.css">
-    <script src="script/movies.js" defer></script>
-    <script src="script/main.js" defer></script>
+;;     <script src="script/movies.js" defer></script>
+;;     <script src="script/main.js" defer></script>
 </head>
 <body>
     <header>
