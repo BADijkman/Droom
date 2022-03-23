@@ -52,7 +52,7 @@
         </div>
     </main>
     <footer>
-        <h2>BADijkman copyright 2021</h2>
+        <h2>BADijkman copyright 2023</h2>
     </footer>
 </body>
 </html>
